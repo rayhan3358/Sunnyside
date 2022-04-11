@@ -1,0 +1,343 @@
+body{
+    position: relative;
+    width: 1440px;
+    height: 4174px;
+    background:#FFFCF8;
+}
+
+h1 {
+    position: relative;
+    width:750px;
+    height: 69px;
+    left:344.5px;
+    top: 195px;
+
+    font-family: 'Fraunces 9pt soft';
+    font-style: normal;
+    font-weight:900;
+    font: size 56px;
+    line: height 69px;
+
+    /*identical to box height */
+    text-align: center;
+    letter-spacing:8.75px;
+    text-transform:uppercase;
+}
+
+
+header{
+    position: absolute;
+    width:1352px;
+    height: 56px;
+    left: 40px;
+    top: 34px;
+}
+.mae{
+    position: absolute;
+    width:1440px;
+    height: 800px;
+    left: 0px;
+    top: 0px;
+}
+.logo{
+    position: absolute;
+    left:0%;
+    right:87.43%;
+    top:21.43%;
+    bottom:19.64%;
+
+    background: #FFFFFF;
+}
+
+.grid{
+    display: grid;
+}
+.article{
+position: absolute;
+width: 445px;
+height: 285px;
+left: 165px;
+top: 958px;
+}
+.article2{
+  position: absolute;
+  width: 445px;
+  height:286px;
+  left: 830px;
+  top:1557px  
+}
+.article3{
+    /*position*/
+  width:339px;
+  height: 143px;  
+  left: 191px;
+  top:2398px;
+
+  /*great design make */
+  position: absolute;
+  font-family:'Barlow';
+  font-style:normal;
+  font-weight: 600;
+  font-size:16px;
+  line-height:27px;
+  
+  /* or 169%*/
+  text-align: center;
+  letter-spacing:-0.114286px;
+  color:#24554A;
+}
+
+.article4{
+  position: absolute;
+  width:734px;
+  height: 143px;  
+  left: 911px;
+  top:2398px;
+
+  font-family:'Barlow';
+  font-style:normal;
+  font-weight: 600;
+  font-size:16px;
+  line-height:27px;
+  
+  /* or 169%*/
+  letter-spacing:-0.114286px;
+  color: #19536c;;
+
+  
+}
+.orange{
+   position: absolute;
+   width: 720px;
+   height:600px;
+   left: 720px;
+   top: 2000px;
+}
+.cerise{
+    position: absolute;
+    width: 720px;
+    height:600px;
+    left: 0px;
+    top:2000px;
+}
+.oeuf{
+    position: absolute;
+    height:600px;
+    width: 720px;
+    left: 720px;
+    top:800px;
+}
+.verre{
+  position: absolute;
+  width:720px;
+  height:600px;
+  left: 0px;
+  top: 1400px;  
+}
+.clients{
+    display: grid;
+    position: absolute;
+    width: 1400px;
+    height: 157px;
+    left: 165px;
+    top: 2760px;
+}
+.popo{
+    position: absolute;
+    height:25px;
+    left: 360.61px;
+    right: 49.02%;
+    top: calc(50% -25px/2 - 216px);
+    font: Fraunces 9pt soft;
+
+    
+    font-style: normal;
+    font-weight: 900;
+    font-size:20px;
+    line-height: 25px;
+    /*identical to box height */
+    text-align:center;
+    letter-spacing: 5px;
+    color: #a7aaad;
+
+}
+.R{
+    font-family:'Barlow';
+    font-style: normal;
+    font-weight: 600;
+    font-size:  14px;
+    line-height: 25px;
+    /*identical to box height */
+    text-align:center;
+    letter-spacing: -0.1px;
+    color: #a7aaad;
+}
+
+.Emily{
+    width: 72px;
+    height:72px;
+    top: 106px;
+    left: 139px;
+    border-radius: 50%;
+        
+    }
+.Thomas{
+width: 72px;
+height:72px;
+top: 106px;
+left: 36.34%;
+border-radius: 50%;    
+}
+.Jennie{
+    width: 72px;
+    height:72px;
+    top: 106px;
+    left: 36.34%;   
+    border-radius: 50%;
+
+}
+.EmilyArticle{
+    position: absolute;
+   left: 0%;
+   right:75.49%;
+   top:51.64%;
+   bottom: 27.35%;
+   
+   font-family:'Barlow';
+     font-style:normal;
+     font-weight: 600;
+     font-size:  18px;
+     line-height:  32px;
+     
+     /* or 178%*/
+     text-align: center;
+     letter-spacing:-0.128571px;
+     color: #5B636D;
+   }
+.ThomasArticle{
+    position: absolute;
+    left: 26.61%;
+    right:48.88%;
+    top:51.64%;
+    bottom: 27.35%;
+    
+    font-family:'Barlow';
+      font-style:normal;
+      font-weight: 600;
+      font-size:  18px;
+      line-height:  32px;
+      
+      /* or 178%*/
+      text-align: center;
+      letter-spacing:-0.128571px;
+      color: #5b636d;
+}
+
+.JennieArticle{
+    position: absolute;
+    left: 53.22%;
+    right:22.27%;
+    top:51.64%;
+    bottom: 27.35%;
+    
+    font-family:'Barlow';
+      font-style:normal;
+      font-weight: 600;
+      font-size:  18px;
+      line-height:  32px;
+      
+      /* or 178%*/
+      text-align: center;
+      letter-spacing:-0.128571px;
+      color: #5b636d;
+}
+.milk{
+    position: absolute;
+    width:360px;
+    height:447px;
+    left:0px;
+    top:3377px;
+}
+.orangeplate{
+    position: absolute;
+    width:360px;
+    height:447px;
+    left:360px;
+    top:3377px;
+}
+.corner{
+    position: absolute;
+    width:360px;
+    height:447px;
+    left: 720px;
+    top:3377px;
+}
+.sugar{
+    position: absolute;
+    width:360px;
+    height:447px;
+    left: 1080px;
+    top:3377px; 
+
+}
+.rectangle{
+display: grid;
+position: absolute;
+width:1440px;
+height: 350px;
+left: 0px;
+top: 3824px;
+background: #90D4C6;
+}
+.logo {
+position: absolute;
+width: 170px;
+height: 33px;
+left: 629px;
+top: 3896px;
+background:#2C7566;
+}
+.about {
+ position: absolute;
+ height: 25px;
+ font-family: 'Barlow';
+ font-style: normal;
+ font-weight: 600;
+ font: size 18px;
+ line-height: 25px;
+ top:calc(50% -25px/2);
+ letter-spacing:-0128571px;
+
+ color: #458D7E;
+}
+.about{
+ right: 83.84%;
+
+}
+.service{
+ right: 41.41%;
+ 
+}
+.project{
+ right: 77.78%;
+  
+}
+.Facebook,.Instagram,.Pinterst,.Twitter{
+    position: absolute;
+    width:20px;
+    height: 20px;
+    top:1500px
+}
+.Facebook{
+    left:637px;
+   
+}
+.Instagram{
+    left:685px;
+}
+.Twitter{
+   left: 733px;
+}
+.Pinterst{
+    left: 781px;
+}
